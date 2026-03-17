@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Daniel Paes
+# 👩🏻‍💻 Erick Nascimento
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Daniel Paes Santos, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em informática para internet.
+Me chamo Erick Nascimento de Melo, tenho 16 anos e sou de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em informática para internet.
 
 <p align="center">
 
