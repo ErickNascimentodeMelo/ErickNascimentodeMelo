@@ -7,7 +7,7 @@ Me chamo Erick Nascimento de Melo, tenho 16 anos e sou de São Paulo. Concluí o
 <p align="center">
 
 <!-- Instagram -->
-<a href="https://www.instagram.com/danielpaes_bjj/" target="_blank">
+<a href="https://www.instagram.com/druuki_2090/" target="_blank">
   <img 
     alt="Instagram" 
     title="Me siga no Instagram" 
@@ -34,7 +34,7 @@ Me chamo Erick Nascimento de Melo, tenho 16 anos e sou de São Paulo. Concluí o
 </a>
 
 <!-- Gmail -->
-<a href="mailto:danielpaes299@gmail.com?subject=Contato%20via%20GitHub">
+<a href="mailto:ericknascimentodemelo@gamil.com?subject=Contato%20via%20GitHub">
   <img 
     alt="Gmail" 
     title="Me envie um email" 
