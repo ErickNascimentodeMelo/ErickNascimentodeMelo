@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Erick Nascimento
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Erick Nascimento de Melo, tenho 16 anos e sou de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em informática para internet.
 
