@@ -24,14 +24,6 @@ Me chamo Erick Nascimento de Melo, tenho 16 anos e sou de São Paulo. Concluí o
   />
 </a>
 
-<!-- Discord -->
-<a href="https://discord.com/channels/@me/1483444253278339074" target="_blank">
-  <img 
-    alt="Discord" 
-    title="Entre no meu Discord" 
-    src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-  />
-</a>
 
 <!-- Gmail -->
 <a href="mailto:ericknascimentodemelo@gamil.com?subject=Contato%20via%20GitHub">
@@ -43,7 +35,7 @@ Me chamo Erick Nascimento de Melo, tenho 16 anos e sou de São Paulo. Concluí o
 </a>
 
 <!-- Estrelas GitHub -->
-<a href="https://github.com/Danielpaes2?tab=repositories" target="_blank">
+<a href="https://github.com/ErickNascimentodeMelo?tab=repositories" target="_blank">
   <img 
     alt="Total de estrelas" 
     title="Total de estrelas no GitHub" 
@@ -52,7 +44,7 @@ Me chamo Erick Nascimento de Melo, tenho 16 anos e sou de São Paulo. Concluí o
 </a>
 
 <!-- Seguidores GitHub -->
-<a href="https://github.com/Danielpaes2?tab=followers" target="_blank">
+<a href="https://github.com/ErickNascimentodeMelo?tab=followers" target="_blank">
   <img 
     alt="Seguidores" 
     title="Me siga no GitHub" 
